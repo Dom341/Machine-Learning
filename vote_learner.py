@@ -1,8 +1,8 @@
+__author__ = 'joshkang'
+
 #this program uses data from the 1984 Congressional Voting Record
 #and uses the 'votes.dta' file
 #Democrats are the positive class in this implementation and Republicans are negative
-#
-#-Joshua Kang 
 import random
 import math
 
